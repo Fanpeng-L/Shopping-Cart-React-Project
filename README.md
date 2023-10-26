@@ -1,4 +1,4 @@
-# Shopping-Cart-React-Project
+# Shopping Cart with React+Vite
 
 Welcome to this user-friendly shopping website!
 
